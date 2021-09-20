@@ -3,4 +3,4 @@
 
 Main objectives:
 - Properly use background-image to display images and gradients
-- Closely mimic layout and visuals of original
+- Closely mimic layout and visuals of original, while using a more modern and semantic approach
